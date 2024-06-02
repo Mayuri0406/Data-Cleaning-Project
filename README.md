@@ -3,13 +3,13 @@ Hi everyone! This is my project on data cleaning as a step to my data analyst ca
 These steps are followed in this project.
                  
                   
-                  => Remove Duplicates
+                  **=>** Remove Duplicates**
 
                   
-                  => Standardizing the Data
+                  => **Standardizing the Data**
 
                   
                   => Looking for null or blank values
 
                   
-                  => Remove unnecessary columns.
+                  => Remove unnecessary columns.**
