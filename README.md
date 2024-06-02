@@ -1,5 +1,5 @@
 # Data Cleaning and Exploratory Data Analysis Project
-Hi everyone! This is my project on data cleaning as a step to my data analyst career. In this project, a rough dataset called layoffs is used in which the data is raw and cannot be used for visualization and more. So, the data is cleaned using MySQL. 
+Hi everyone! This is my project on data cleaning and Exploratory Data Analysis as a step to my data analyst career. In this project, a rough dataset called layoffs is used in which the data is raw and cannot be used for visualization and more. So, the data is cleaned and analysed using MySQL. 
 These steps are followed in this project.
                  
                   
@@ -14,7 +14,7 @@ These steps are followed in this project.
                   
                   => Remove unnecessary columns.
 
-After obtaiing the clean data of layoffs, Exploratory Data Analysis was done. 
+After obtaining the clean data of layoffs, Exploratory Data Analysis is done. 
 
 
                     => The laidoffs
