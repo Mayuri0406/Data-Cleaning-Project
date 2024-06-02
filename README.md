@@ -14,7 +14,7 @@ These steps are followed in this project.
                   
                   => Remove unnecessary columns.
 
-After obtaiing the clean data of layoffs, exploratory data analysis is done. 
+After obtaiing the clean data of layoffs, Exploratory Data Analysis was done. 
 
 
                     => The laidoffs
